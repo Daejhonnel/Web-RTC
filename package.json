@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "agora-chat": "^1.1.0",
+    "start": "^5.1.0"
+  }
+}
